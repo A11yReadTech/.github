@@ -1,7 +1,7 @@
 # Accessible Reading Technologies
 Public facing general-purpose GitHub repo. Home of the [APCA Readability Guidelines](https://www.readtech.org/ARG/guidelines/).
 
-<img src="https://readtech.org/img/ARTtextPaths_v03.svg" width="720">
+<img src="./img/IRTtextPaths_v03.svg" width="720">
 
 ## [APCA GUIDELINES FOR READABLE DESIGN](https://www.readtech.org/ARG/guidelines/)
 
