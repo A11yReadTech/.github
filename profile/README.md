@@ -2,7 +2,7 @@
 Home of the [APCA Readability Guidelines](https://www.readtech.org/ARG/).
 
 
-<img src="../img/IRTtextPaths_v03.svg" width="640">
+<img src="https://raw.githubusercontent.com/A11yReadTech/.github/main/img/IRTtextPaths_v03.svg" width="640">
 
 
 ## [APCA GUIDELINES FOR READABLE DESIGN](https://www.readtech.org/ARG/)
